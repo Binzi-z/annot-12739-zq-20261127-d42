@@ -11,3 +11,10 @@ __pycache__/
 artifacts/
 recordings/
 *.mp4
+
+# 基准与构建产物
+bench10k/
+bench100k/
+alertguard.exe
+alertguard
+*.tmp
